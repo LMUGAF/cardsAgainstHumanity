@@ -42,6 +42,4 @@ ttystatus==0.23
 urlgrabber==3.10.1
 wammu==0.36
 wsgiref==0.1.2
-wxPython==3.0.0.0
-wxPython-common==3.0.0.0
 zenmap==6.46
